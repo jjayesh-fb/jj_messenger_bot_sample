@@ -1,0 +1,35 @@
+{
+  "name": "messenger-webhook",
+  "version": "1.0.0",
+  "description": "Webhook for Jayesh's messenger bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjayesh-fb/jj_messenger_bot_sample.git"
+  },
+  "keywords": [
+    "facebook",
+    "messenger",
+    "bot",
+    "sample",
+    "getting",
+    "started",
+    "first",
+    "learn",
+    "try",
+    "node",
+    "nodejs"
+  ],
+  "author": "Jayesh Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjayesh-fb/jj_messenger_bot_sample/issues"
+  },
+  "homepage": "https://github.com/jjayesh-fb/jj_messenger_bot_sample#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
