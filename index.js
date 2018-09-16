@@ -4,7 +4,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 
 const app = express().use(bodyParser.json());
-app.get('/', (req, res) => res.send('Hello World!'))
+app.get('/', (req, res) => res.send('Welcome to Jayesh messenger bot webhook on heroku!'))
 var port = process.env.PORT || 8080;
 app.listen(port, () => console.log('Example app listening on port %d', port));
 
