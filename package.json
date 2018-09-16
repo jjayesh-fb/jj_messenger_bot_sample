@@ -4,6 +4,7 @@
   "description": "Webhook for Jayesh's messenger bot",
   "main": "index.js",
   "scripts": {
+    "start": "index.js",
     "test": "test"
   },
   "repository": {
